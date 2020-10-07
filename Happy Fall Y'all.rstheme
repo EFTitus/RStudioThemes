@@ -111,7 +111,7 @@
   color: #B58900 !important;
 }
 .terminal {
-  background-color: #002B36;
+  background-color: #1A0814;
   color: #93a1a1;
   font-feature-settings: "liga" 0;
   position: relative;
