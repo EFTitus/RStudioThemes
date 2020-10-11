@@ -1,0 +1,7 @@
+/* rs-theme-name: Dorado */
+/* rs-theme-is-dark: FALSE */
+
+.ace_gutter {
+  background: #0D030A;
+  color: #bf6a2c
+}
