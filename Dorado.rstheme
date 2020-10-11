@@ -2,6 +2,6 @@
 /* rs-theme-is-dark: FALSE */
 
 .ace_gutter {
-  background: #0D030A;
-  color: #bf6a2c
+  background: #124993;
+  color: #ded90c
 }
